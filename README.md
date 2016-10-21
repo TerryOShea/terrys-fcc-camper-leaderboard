@@ -1,4 +1,4 @@
-A Pen created at CodePen.io. You can find this one <a href='http://codepen.io/terryoshea/pen/pEoZJA'>here</a>.
+A Pen created at CodePen.io. You can find this one <a href='http://codepen.io/terryoshea/full/pEoZJA/'>here</a>.
 
 This was built with React for Free Code Camp's 'Build a Camper Leaderboard' Project (for Data Visualization Certificate). 
 
